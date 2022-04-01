@@ -189,6 +189,7 @@ hardcode
 Hardhat
 hayekian
 hdwallet
+HEVM
 hifi
 hmrc
 hola
@@ -378,6 +379,8 @@ solc
 solhint
 solidity
 soljson
+solmate
+Solmate
 spacetime
 spec
 spellchecked
