@@ -46,6 +46,7 @@ blockchains
 blockscout
 borderless
 brexit
+Brocco
 Bromelain
 browserslist
 BSCSCAN
@@ -64,6 +65,7 @@ ceiled
 centered
 Chainlink
 Changesets
+cheatcode
 checklist
 cherrypick
 chronos
