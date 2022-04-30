@@ -34,6 +34,7 @@ BDNF
 behaviors
 Berbercap
 berberin
+Bifidobacterium
 bigint
 bignumber
 Bioavailable
