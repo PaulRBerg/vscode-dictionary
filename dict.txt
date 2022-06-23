@@ -360,6 +360,7 @@ rewrap
 rinkeby
 roboto
 rollbar
+ronin
 ropsten
 rustacean
 sablier
