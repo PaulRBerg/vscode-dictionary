@@ -67,6 +67,7 @@ centered
 Chainlink
 Changesets
 cheatcode
+cheatcodes
 checklist
 cherrypick
 chronos
