@@ -99,6 +99,8 @@ counterparty
 cowen
 crayola
 crypto
+cryptoasset
+cryptoassets
 cryptocurrencies
 cryptoeconomic
 cryptoeconomics
