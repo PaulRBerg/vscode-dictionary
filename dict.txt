@@ -453,6 +453,7 @@ typechain
 typecheck
 TYPEHASH
 Typeless
+typegen
 typy
 uint
 uniswap
