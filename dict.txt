@@ -64,6 +64,7 @@ cancelation
 cashify
 cdps
 ceiled
+Celestia
 centered
 Chainlink
 Changesets
@@ -132,6 +133,8 @@ devtool
 DEVTOOLS
 dialog
 discretionarily
+disincentivising
+disincentivizing
 disqus
 docgen
 Dockerised
@@ -213,6 +216,9 @@ implementors
 inbox
 incentivisation
 incentivise
+incentivising
+incentivize
+incentivizing
 incurrence
 inferrable
 infima
@@ -252,6 +258,7 @@ mainnet
 Mainnets
 mashup
 mathjsbignumber
+maximalism
 memoized
 metacartel
 metamask
@@ -269,6 +276,7 @@ mixpanel
 mkdir
 Modafinil
 modals
+modularism
 Monacolin
 Monnieri
 monoeth
@@ -314,6 +322,7 @@ paydays
 payg
 payoff
 pedersen
+permissionless
 permittable
 Phosphatidylserine
 phytosterols
@@ -365,12 +374,13 @@ rewrap
 rinkeby
 roboto
 rollbar
+rollup
+rollups
 ronin
 ropsten
 rustacean
 sablier
 sablierhq
-sabliξr
 sberc
 screencast
 screenshot
@@ -426,6 +436,7 @@ technicals
 templatify
 templating
 tempy
+Tendermint
 testnet
 testnets
 theanine
