@@ -176,6 +176,7 @@ flickerings
 Folate
 forma
 fortmatic
+funder
 FTMSCAN
 FYTOKEN
 gajillion
@@ -210,6 +211,7 @@ Hubspot
 hyaluronic
 hyperloop
 identicon
+IERC
 IIFE
 implementor
 implementors
@@ -223,6 +225,7 @@ incurrence
 inferrable
 infima
 infura
+inheritdoc
 INITALIZED
 inmemory
 intelli
