@@ -34,7 +34,6 @@ Balkanization
 BDNF
 behaviors
 Berbercap
-berberin
 Bifidobacterium
 bigint
 bignumber
@@ -71,6 +70,8 @@ Changesets
 cheatcode
 cheatcodes
 checklist
+checksum
+checksummed
 cherrypick
 chronos
 cicd
@@ -330,12 +331,14 @@ permittable
 Phosphatidylserine
 phytosterols
 Picolinate
+pinst
 placeholder
 podcasts
 polyfilled
 Polygonscan
 poppable
 portis
+postpublish
 prbpad
 prdpad
 precompile
@@ -490,6 +493,7 @@ vars
 Verburgh
 VERCEL
 versioning
+vitalik
 Vivomixx
 walletconnect
 walletlink
