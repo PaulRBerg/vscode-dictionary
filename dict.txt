@@ -1,6 +1,7 @@
 aave
 abdk
 abis
+adaptogenic
 adblock
 admin
 Agrestis
@@ -175,6 +176,7 @@ fisetin
 fixpack
 flickerings
 Folate
+Forc
 forma
 fortmatic
 funder
@@ -257,6 +259,7 @@ livepeer
 lockdown
 lottie
 lowercase
+lshift
 mainframehq
 mainnet
 Mainnets
@@ -278,6 +281,7 @@ mins
 mintable
 mixpanel
 mkdir
+mnenomic
 Modafinil
 modals
 modularism
@@ -339,6 +343,7 @@ Polygonscan
 poppable
 portis
 postpublish
+powu
 prbpad
 prdpad
 precompile
@@ -361,7 +366,9 @@ purgeable
 qrcode
 quantstamp
 queryable
+Quickstart
 railroad
+Rapamycin
 rata
 razvan
 recalc
@@ -378,12 +385,14 @@ repo's
 Resveratrol
 rewrap
 rinkeby
+roadmap
 roboto
 rollbar
 rollup
 rollups
 ronin
 ropsten
+rshift
 rustacean
 sablier
 sablierhq
@@ -400,7 +409,7 @@ sidechain
 sidechains
 skyrockets
 SNOWTRACE
-Solaray
+Solarray
 solc
 solhint
 solidity
@@ -472,6 +481,8 @@ TYPEHASH
 Typeless
 typegen
 typy
+underflows
+Ungovernance
 uint
 uniswap
 uniswaps
