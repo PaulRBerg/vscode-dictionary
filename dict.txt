@@ -4,6 +4,7 @@ abis
 adaptogenic
 adblock
 admin
+akkermansia
 agrestis
 airdrop
 airdrops
