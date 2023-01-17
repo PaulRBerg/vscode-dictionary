@@ -94,6 +94,7 @@ colliders
 commitlint
 commitlintrc
 composable
+concat
 confirmer
 consen
 contract
@@ -129,6 +130,7 @@ declutter
 deconstruct
 deconstructing
 defi
+delegatecall
 denormalizations
 deployer
 deployers
@@ -188,6 +190,7 @@ ftmscan
 fytoken
 gajillion
 ganache
+gasleft
 genoset
 genosets
 gether
@@ -235,6 +238,7 @@ infura
 inheritdoc
 initalized
 inmemory
+iprb
 intelli
 ionophore
 ipfs
@@ -260,6 +264,7 @@ linkedin
 linting
 liquidatable
 livepeer
+loanability
 lockdown
 lottie
 lowercase
@@ -348,6 +353,7 @@ poppable
 portis
 postpublish
 powu
+prb
 prbpad
 prdpad
 precompile
@@ -387,6 +393,8 @@ remappings
 repo
 repo's
 resveratrol
+returndatasize
+returndata_size
 rewrap
 rinkeby
 roadmap
@@ -405,6 +413,7 @@ screencast
 screenshot
 screenshots
 secp
+selfdestruct
 setup
 sexualised
 shenzhen
