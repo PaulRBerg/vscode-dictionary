@@ -9,6 +9,7 @@ akkermansia
 agrestis
 airdrop
 airdrops
+allopurinol
 allowlist
 allowlisted
 analytics
@@ -18,6 +19,7 @@ anymore
 apigenin
 app
 apps
+arange
 arbiscan
 arbitrum
 arcx
@@ -36,6 +38,7 @@ bacopa
 balkanization
 bdnf
 behaviors
+benzodiazepines
 berbercap
 bifidobacterium
 bigint
@@ -60,10 +63,12 @@ buidlerevm
 bundlifies
 bundlify
 bytecode
+calldataload
 calendly
 camelcase
 cancelation
 cashify
+cbor
 cdps
 ceiled
 celestia
@@ -100,6 +105,7 @@ consen
 contract
 contractz
 corejs
+corge
 counterparties
 counterparty
 cowen
@@ -131,9 +137,12 @@ deconstruct
 deconstructing
 defi
 delegatecall
+denormalize
+denormalized
 denormalizations
 deployer
 deployers
+destructer
 destructure
 devtool
 devtools
@@ -187,6 +196,8 @@ forma
 fortmatic
 funder
 ftmscan
+fuzzer
+fuzzers
 fytoken
 gajillion
 ganache
@@ -289,6 +300,7 @@ minified
 mins
 mintable
 mixpanel
+mload
 mkdir
 mnenomic
 modafinil
@@ -300,6 +312,7 @@ monoeth
 monorepo
 moringa
 mstable
+mstore
 multibuild
 multicall
 multiline
@@ -319,6 +332,7 @@ nomiclabs
 nonexistent
 nonpayable
 noopener
+nootropics
 noreferrer
 norovirus
 norpc
@@ -341,6 +355,7 @@ payoff
 pedersen
 permissionless
 permittable
+phenibut
 phosphatidylserine
 phytosterols
 picolinate
@@ -358,6 +373,7 @@ prbpad
 prdpad
 precompile
 precompiles
+precompute
 prefilled
 prepended
 prepping
@@ -457,6 +473,7 @@ subproviders
 sulforaphane
 supermajority
 supertraits
+symbolless
 synth
 synthetix
 sys
@@ -495,12 +512,15 @@ typeless
 typegen
 typy
 underflows
+undeployed
 ungovernance
 uint
+uninstallation
 uniswap
 uniswaps
 unmount
 unopinionated
+unsetting
 unsliced
 untrack
 untracks
