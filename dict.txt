@@ -219,6 +219,7 @@ gwei
 hackathon
 hardcode
 hardhat
+hardfork
 hayekian
 hdwallet
 hevm
@@ -445,6 +446,7 @@ solidity
 soljson
 solmate
 solmate
+solplate
 spacetime
 spec
 spellchecked
