@@ -123,7 +123,6 @@ crytic
 ctoken
 curcumin
 cutoff
-d
 dapp
 dapps
 datepicker
@@ -194,6 +193,8 @@ forge
 forgefmt
 forma
 fortmatic
+frontend
+frontends
 funder
 ftmscan
 fuzzer
@@ -344,6 +345,8 @@ opcode
 opcodes
 openzeppelin
 orchestratable
+overcomplicate
+overcomplicating
 ownable
 pageview
 parens
@@ -431,6 +434,7 @@ screenshot
 screenshots
 secp
 selfdestruct
+sepolia
 setup
 sexualised
 shenzhen
