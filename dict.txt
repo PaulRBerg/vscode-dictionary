@@ -281,6 +281,7 @@ loanability
 lockdown
 lottie
 lowercase
+lpotdod
 lshift
 mainframehq
 mainnet
@@ -331,6 +332,7 @@ newtype
 nilly
 nohoist
 nomiclabs
+nondet
 nonexistent
 nonpayable
 noopener
@@ -442,6 +444,7 @@ shortcut
 sidechain
 sidechains
 skyrockets
+smtchecker
 snowtrace
 solarray
 solc
@@ -507,6 +510,7 @@ transpiler
 traveler
 trimethylglycine
 trustless
+trustlessness
 tsla
 tuple
 tuples
