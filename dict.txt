@@ -63,6 +63,7 @@ buidlerevm
 bundlifies
 bundlify
 bytecode
+bytecodes
 calendly
 calldataload
 camelcase
@@ -274,6 +275,7 @@ levothyroxine
 lgpl
 linebreak
 linkedin
+linspace
 linting
 liquidatable
 livepeer
@@ -302,6 +304,7 @@ minereum
 minified
 mins
 mintable
+mixedcase
 mixpanel
 mkdir
 mload
@@ -528,10 +531,14 @@ ungovernance
 uninstallation
 uniswap
 uniswaps
+unlist
+unlists
+unlisted
 unmount
 unopinionated
 unsetting
 unsliced
+unstaging
 untrack
 untracks
 unwithdrawn
