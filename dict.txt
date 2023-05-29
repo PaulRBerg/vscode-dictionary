@@ -74,6 +74,7 @@ cdps
 ceiled
 celestia
 centered
+chainid
 chainlink
 changesets
 cheatcode
@@ -126,6 +127,8 @@ curcumin
 cutoff
 dapp
 dapps
+dasharray
+dashoffset
 datepicker
 datetime
 dayjs
@@ -230,6 +233,7 @@ hmrc
 hola
 hotfixing
 howto
+hrefs
 huberman
 hubspot
 hyaluronic
@@ -274,6 +278,7 @@ lerna
 levothyroxine
 lgpl
 linebreak
+linecap
 linkedin
 linspace
 linting
@@ -304,6 +309,7 @@ minereum
 minified
 mins
 mintable
+miterlimit
 mixedcase
 mixpanel
 mkdir
@@ -332,6 +338,7 @@ negativa
 netflix
 netlify
 newtype
+nftsvg
 nilly
 nohoist
 nomiclabs
@@ -372,6 +379,7 @@ pinst
 placeholder
 podcasts
 polyfilled
+polyline
 polygonscan
 poppable
 portis
@@ -449,6 +457,7 @@ sidechains
 skyrockets
 smtchecker
 snowtrace
+solady
 solarray
 solc
 solhint
@@ -465,6 +474,7 @@ stablecoins
 stanfield
 startup
 startups
+staticcall
 steelmaking
 streamable
 struct
@@ -573,6 +583,7 @@ withdrawable
 workflows
 wsrun
 xero
+xlink
 xstate
 yarnpkg
 ytoken
