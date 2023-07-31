@@ -8,6 +8,8 @@ adminable
 agrestis
 airdrop
 airdrops
+airstream
+airstreams
 akkermansia
 allopurinol
 allowlist
