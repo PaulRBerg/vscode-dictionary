@@ -40,6 +40,7 @@ aztecprotocol
 azureish
 backtrace
 bacopa
+balanceof
 balkanization
 bdnf
 behaviors
@@ -72,6 +73,7 @@ bytecode
 bytecodes
 calendly
 calldataload
+callvalue
 camelcase
 cancelability
 cancelation
@@ -95,6 +97,8 @@ cicd
 circleci
 clawback
 cleanup
+clickjack
+clickjacking
 cliffing
 clickable
 clippy
@@ -175,6 +179,8 @@ echanges
 economicus
 ecrecover
 ecsign
+eip
+eips
 emoji
 ensurance
 entrypoint
@@ -187,7 +193,7 @@ ethernal
 etherscan
 etherscan's
 ethersproject
-Everettian
+everettian
 evm
 exponentials
 extendable
@@ -240,6 +246,7 @@ gwei
 hackathon
 hardcode
 hardfork
+hardforks
 hardhat
 hayekian
 hdwallet
@@ -248,6 +255,7 @@ hevm
 hifi
 hmrc
 hola
+hookable
 homocysteine
 hotfixing
 howto
@@ -281,10 +289,13 @@ ipfs
 iphone
 iprb
 isemail
+isrf20
 j
 jankiness
 janky
 jazzicon
+journaled
+journaling
 keccak
 keybase
 kovan
@@ -456,6 +467,7 @@ repo's
 resveratrol
 returndata_size
 returndatasize
+revm
 rewrap
 rinkeby
 roadmap
@@ -496,6 +508,9 @@ solidity
 soljson
 solmate
 solplate
+srf
+srf20
+srfs
 spacetime
 spec
 spellchecked
@@ -574,6 +589,7 @@ typeless
 typy
 uint
 undeployed
+underflowed
 underflows
 ungovernance
 uninstallation
@@ -599,6 +615,7 @@ upscaled
 upscales
 usdc
 usernames
+utxo
 utxos
 vars
 verburgh
@@ -630,3 +647,4 @@ ytokens
 zaleplon
 zenyth
 zkerc
+zksync
