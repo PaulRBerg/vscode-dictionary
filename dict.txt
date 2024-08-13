@@ -32,6 +32,7 @@ arcxgame
 artifact
 artifacts
 ashwagandha
+astaxanthin
 assemblyscript
 attia
 attia's
@@ -67,6 +68,7 @@ bscscan
 buidled
 buidler
 buidlerevm
+bulloak
 bundlifies
 bundlify
 bytecode
@@ -157,6 +159,7 @@ defi
 delegatecall
 denormalizations
 denormalize
+denormalizes
 denormalized
 deployer
 deployers
@@ -193,6 +196,7 @@ ethernal
 etherscan
 etherscan's
 ethersproject
+eurs
 everettian
 evm
 exponentials
@@ -381,6 +385,8 @@ nonpayable
 noopener
 nootropics
 noreferrer
+normalize
+normalizes
 norovirus
 norpc
 npm
@@ -493,6 +499,7 @@ sepolia
 setup
 sexualised
 shenzhen
+shiba
 shortcut
 sidechain
 sidechains
