@@ -503,6 +503,7 @@ shiba
 shortcut
 sidechain
 sidechains
+sighash
 simvastatin
 skyrockets
 smtchecker
