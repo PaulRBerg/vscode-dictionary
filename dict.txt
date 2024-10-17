@@ -40,6 +40,7 @@ ayurvedic
 aztecprotocol
 azureish
 backtrace
+backweighted
 bacopa
 balanceof
 balkanization
@@ -367,6 +368,8 @@ multicall
 multiline
 multilines
 multirelease
+multisig
+multisigs
 multisol
 mundo
 namehash
@@ -409,6 +412,7 @@ paydays
 payg
 payoff
 pedersen
+permissioned
 permissionless
 permittable
 petgraph
