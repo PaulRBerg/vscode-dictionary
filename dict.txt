@@ -209,6 +209,7 @@ faguet
 fallback
 fallbacking
 fallbacks
+Farcaster
 ferriss
 fide
 filepath
@@ -417,6 +418,7 @@ payoff
 pedersen
 permissioned
 permissionless
+permissionlessly
 permittable
 petgraph
 phenibut
@@ -580,6 +582,7 @@ timeframe
 timelock
 timelocks
 timeouts
+tokenlist
 tongkat
 torenberg
 tranched
