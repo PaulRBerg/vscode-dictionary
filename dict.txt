@@ -48,6 +48,7 @@ batchable
 bdnf
 behaviors
 benzodiazepines
+berachain
 berbercap
 bifidobacterium
 bigint
@@ -75,6 +76,7 @@ bundlifies
 bundlify
 bytecode
 bytecodes
+Bytegaze
 calendly
 calldataload
 callvalue
@@ -96,10 +98,12 @@ checklist
 checksum
 checksummed
 cherrypick
+Chiliz
 chronos
 cicd
 circleci
 clawback
+clawbacks
 cleanup
 clickable
 clickjack
@@ -190,6 +194,7 @@ emoji
 ensurance
 entrypoint
 Envio
+EPOCHSECONDS
 eslint's
 eslintignore
 etherchain
@@ -256,6 +261,7 @@ hardcode
 hardfork
 hardforks
 hardhat
+Hasura's
 hayekian
 hdwallet
 hepatoprotective
@@ -293,6 +299,7 @@ initcode
 inmemory
 intelli
 ionophore
+iotex
 ipfs
 iphone
 iprb
@@ -315,6 +322,7 @@ larsseit
 lerna
 levothyroxine
 lgpl
+lightlink
 linea
 linebreak
 linecap
@@ -515,6 +523,7 @@ sidechains
 sighash
 simvastatin
 skyrockets
+SLOADs
 smtchecker
 snowtrace
 solady
@@ -560,6 +569,7 @@ subprovider
 subproviders
 sulforaphane
 supermajority
+superseed
 supertraits
 symbolless
 synth
@@ -573,6 +583,7 @@ tendermint
 testnet
 testnets
 theanine
+thegraph
 thiel
 thiel's
 thingy
@@ -645,8 +656,10 @@ vars
 verburgh
 vercel
 versioning
+Viem
 vitalik
 vivomixx
+Wagmi
 walletconnect
 walletlink
 wasm
