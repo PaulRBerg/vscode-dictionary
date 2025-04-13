@@ -91,6 +91,7 @@ celestia
 centered
 chainid
 chainlink
+Chainlist
 changesets
 cheatcode
 cheatcodes
@@ -167,6 +168,7 @@ denormalizations
 denormalize
 denormalized
 denormalizes
+depcheck
 deployer
 deployers
 destructer
@@ -182,6 +184,7 @@ disqus
 docgen
 dockerised
 doppelganger
+dotenv
 dropdown
 ecdsa
 echanges
@@ -342,6 +345,7 @@ lshift
 mainframehq
 mainnet
 mainnets
+Majeure
 mashup
 mathjsbignumber
 maximalism
@@ -416,6 +420,7 @@ overcomplicate
 overcomplicating
 ownable
 pageview
+Pandoc
 parens
 parsable
 paulrberg
@@ -538,6 +543,7 @@ spacetime
 spec
 spellchecked
 spilsbury
+sqlfluff
 srf
 srf20
 srfs
@@ -575,6 +581,7 @@ symbolless
 synth
 synthetix
 sys
+Taiko
 technicals
 templatify
 templating
@@ -617,6 +624,7 @@ typehash
 typeless
 typy
 uint
+Uncancelable
 undeployed
 underflowed
 underflows
