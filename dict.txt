@@ -48,6 +48,7 @@ batchable
 bdnf
 behaviors
 benzodiazepines
+BERA
 berachain
 berbercap
 bifidobacterium
@@ -83,6 +84,7 @@ callvalue
 camelcase
 cancelability
 cancelation
+capitalisation
 cashify
 cbor
 cdps
@@ -193,6 +195,7 @@ ecrecover
 ecsign
 eip
 eips
+elif
 emoji
 ensurance
 entrypoint
@@ -267,6 +270,7 @@ hardhat
 Hasura's
 hayekian
 hdwallet
+Hekla
 hepatoprotective
 hevm
 hifi
@@ -629,6 +633,7 @@ undeployed
 underflowed
 underflows
 ungovernance
+unichain
 uninstallation
 uniswap
 uniswaps
