@@ -48,7 +48,6 @@ batchable
 bdnf
 behaviors
 benzodiazepines
-BERA
 berachain
 berbercap
 bifidobacterium
@@ -80,6 +79,7 @@ bytecodes
 Bytegaze
 calendly
 calldataload
+calldatas
 callvalue
 camelcase
 cancelability
@@ -101,7 +101,7 @@ checklist
 checksum
 checksummed
 cherrypick
-Chiliz
+chiliz
 chronos
 cicd
 circleci
@@ -248,9 +248,12 @@ ganache
 gasleft
 genoset
 genosets
+geoblock
+geoblocking
 gether
 gitignore
 gitmodules
+Gitter
 gnosisscan
 godmode
 goerli
@@ -401,6 +404,7 @@ newtype
 nftsvg
 nilly
 nohoist
+Nomic
 nomiclabs
 nondet
 nonexistent
@@ -578,14 +582,16 @@ submodule
 subprovider
 subproviders
 sulforaphane
+Supabase
 supermajority
 superseed
 supertraits
 symbolless
+synevo
 synth
 synthetix
 sys
-Taiko
+taiko
 technicals
 templatify
 templating
@@ -613,7 +619,10 @@ transpiled
 transpiler
 traveler
 trazodone
+Tretinoin
 trimethylglycine
+trino
+TRUNC
 trustless
 trustlessness
 tsbuildinfo
@@ -661,7 +670,11 @@ upgradeability
 uppercase
 upscaled
 upscales
+Upserts
 usdc
+USDE
+USDL
+USDS
 usernames
 utxo
 utxos
