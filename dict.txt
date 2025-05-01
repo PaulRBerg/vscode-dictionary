@@ -36,6 +36,7 @@ assemblyscript
 astaxanthin
 attia
 attia's
+autogen
 ayurvedic
 aztecprotocol
 azureish
@@ -200,8 +201,10 @@ emoji
 ensurance
 entrypoint
 Envio
+envios
 EPOCHSECONDS
 eslint's
+eslintcache
 eslintignore
 etherchain
 ethereum
@@ -279,6 +282,7 @@ hevm
 hifi
 hmrc
 hola
+HOLESKY
 homocysteine
 hookable
 hotfixing
@@ -321,6 +325,7 @@ janky
 jazzicon
 journaled
 journaling
+JSONs
 keccak
 keybase
 kovan
