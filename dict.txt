@@ -75,6 +75,7 @@ buidlerevm
 bulloak
 bundlifies
 bundlify
+bunx
 bytecode
 bytecodes
 Bytegaze
@@ -292,6 +293,8 @@ huberman
 hubspot
 hyaluronic
 hyperloop
+hypersync
+hypersyncs
 identicon
 ierc
 iife
@@ -326,6 +329,7 @@ jazzicon
 journaled
 journaling
 JSONs
+justfile
 keccak
 keybase
 kovan
@@ -393,6 +397,7 @@ mstable
 mstore
 multibuild
 multicall
+multichain
 multiline
 multilines
 multirelease
@@ -510,6 +515,7 @@ returndata_size
 returndatasize
 revm
 rewrap
+rimraf
 rinkeby
 roadmap
 roboto
@@ -552,6 +558,7 @@ solidity
 soljson
 solmate
 solplate
+sophon
 spacetime
 spec
 spellchecked
@@ -651,6 +658,7 @@ unichain
 uninstallation
 uniswap
 uniswaps
+universalaccess
 unlist
 unlisted
 unlists
@@ -689,6 +697,7 @@ vercel
 versioning
 Viem
 vitalik
+VITE
 vivomixx
 Wagmi
 walletconnect
