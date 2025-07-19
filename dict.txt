@@ -8,6 +8,7 @@ adminable
 agrestis
 airdrop
 airdrops
+Airgrid
 airstream
 airstreamed
 airstreaming
@@ -97,6 +98,7 @@ chainid
 chainlink
 Chainlist
 changesets
+changetype
 cheatcode
 cheatcodes
 checklist
@@ -135,6 +137,7 @@ contractz
 copyfiles
 corejs
 corge
+Counterfactuals
 counterparties
 counterparty
 cowen
@@ -149,6 +152,7 @@ cryptoeconomics
 cryptos
 cryptosystem
 cryptosystems
+cryptotokens
 crytic
 ctoken
 curcumin
@@ -217,6 +221,7 @@ ethersproject
 eurs
 everettian
 evm
+expector
 exponentials
 extendable
 fadogia
@@ -232,9 +237,11 @@ fintech
 fintroller
 firefox
 fisetin
+fixision
 fixpack
 flickerings
 folate
+Footguns
 forc
 forge
 forgefmt
@@ -253,6 +260,7 @@ gasleft
 genoset
 genosets
 geoblock
+geoblocked
 geoblocking
 gether
 gitignore
@@ -262,6 +270,7 @@ gnosisscan
 godmode
 goerli
 gotcha
+Graphi
 graphprotocol
 graphql
 gray
@@ -274,6 +283,7 @@ hardcode
 hardfork
 hardforks
 hardhat
+Hasura
 Hasura's
 hayekian
 hdwallet
@@ -292,6 +302,7 @@ hrefs
 huberman
 hubspot
 hyaluronic
+hyperevm
 hyperloop
 hypersync
 hypersyncs
@@ -314,6 +325,7 @@ inheritdoc
 initalized
 initcode
 inmemory
+Instantiator
 intelli
 ionophore
 iotex
@@ -369,6 +381,7 @@ memoized
 merkle
 metacartel
 metamask
+metatags
 methylcobalamin
 micropayments
 might
@@ -428,6 +441,7 @@ norovirus
 norpc
 npm
 numberish
+OFAC
 offchain
 onchain
 opcode
@@ -488,6 +502,7 @@ promisify
 prostaphane
 prover
 proxender
+proxenders
 proxied
 psyllium
 purgeable
@@ -496,6 +511,7 @@ quantstamp
 queryable
 quickstart
 railroad
+rainbowkit
 rapamycin
 rata
 razvan
@@ -510,6 +526,7 @@ relayers
 remappings
 repo
 repo's
+repomix
 resveratrol
 returndata_size
 returndatasize
@@ -551,6 +568,7 @@ SLOADs
 smtchecker
 snowtrace
 solady
+Solana
 solarray
 solc
 solhint
@@ -558,6 +576,7 @@ solidity
 soljson
 solmate
 solplate
+Solutioning
 sophon
 spacetime
 spec
@@ -698,6 +717,7 @@ versioning
 Viem
 vitalik
 VITE
+vitest
 vivomixx
 Wagmi
 walletconnect
