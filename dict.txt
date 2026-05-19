@@ -21,10 +21,12 @@ allowlist
 allowlisted
 analytics
 anthocyanins
+anthropics
 antialiased
 anymore
 apigenin
 app
+Approvable
 apps
 arange
 arbiscan
@@ -44,6 +46,7 @@ autogen
 ayurvedic
 aztecprotocol
 azureish
+backloaded
 backtrace
 backweighted
 bacopa
@@ -84,7 +87,9 @@ buidlerevm
 bulloak
 bundlifies
 bundlify
+bunfig
 bunx
+Buterin's
 bytecode
 bytecodes
 Bytegaze
@@ -98,6 +103,7 @@ cancelation
 capitalisation
 cashify
 cbor
+ccbump
 cdps
 ceiled
 celestia
@@ -140,12 +146,14 @@ colliders
 commitlint
 commitlintrc
 composable
+Comptrollerable
 concat
 confirmer
 consen
 contract
 contractz
 copyfiles
+COREDAO
 corejs
 corge
 Counterfactuals
@@ -167,6 +175,7 @@ cryptotokens
 crytic
 ctoken
 curcumin
+customizer
 cutoff
 cygan
 dapp
@@ -182,8 +191,10 @@ decentraland
 declutter
 deconstruct
 deconstructing
+Dedup
 defi
 delegatecall
+DENERGY
 denormalizations
 denormalize
 denormalized
@@ -191,6 +202,7 @@ denormalizes
 depcheck
 deployer
 deployers
+desaturated
 destructer
 destructure
 deutsch
@@ -198,12 +210,14 @@ Devnet
 devtool
 devtools
 dialog
+direnv
 discretionarily
 disincentivising
 disincentivizing
 disqus
 docgen
 dockerised
+docstrings
 doppelganger
 dotenv
 dropdown
@@ -221,10 +235,12 @@ ensurance
 entrypoint
 Envio
 envios
+envrc
 EPOCHSECONDS
 eslint's
 eslintcache
 eslintignore
+espanso
 etherchain
 ethereum
 ethereumjs
@@ -246,6 +262,7 @@ fallbacks
 Farcaster
 ferriss
 fide
+Filenaming
 filepath
 FINNHUB
 fintech
@@ -266,6 +283,7 @@ fortmatic
 foundryup
 frontend
 frontends
+frontmatter
 ftmscan
 funder
 fuzzer
@@ -288,6 +306,7 @@ gnosisscan
 godmode
 goerli
 gotcha
+Granularities
 Graphi
 graphprotocol
 graphql
@@ -304,6 +323,7 @@ hardhat
 Hasura
 Hasura's
 hayekian
+hdkey
 hdwallet
 Hekla
 hepatoprotective
@@ -324,6 +344,7 @@ huberman
 hubspot
 hyaluronic
 hyperevm
+hyperindex
 hyperliquid
 hyperloop
 hypersync
@@ -366,6 +387,7 @@ journaled
 journaling
 JSONs
 justfile
+justfiles
 kalshi
 keccak
 keybase
@@ -405,6 +427,7 @@ lottie
 lowercase
 lpotdod
 lshift
+Mailchimp
 mainframehq
 mainnet
 mainnets
@@ -412,6 +435,7 @@ Majeure
 mashup
 mathjsbignumber
 maximalism
+mdformat
 megalist
 memoized
 merkle
@@ -425,6 +449,7 @@ might
 might've
 Miko
 millimeters
+Millis
 mindmap
 minereum
 minified
@@ -490,15 +515,20 @@ oneline
 onepassword
 opcode
 opcodes
+openclaw
+opengraph
 openzeppelin
 optimus
 orchestratable
 overcomplicate
 overcomplicating
 ownable
+oxfmt
 OXGRAPH
+oxlint
 pageview
 Pandoc
+papaparse
 parallelizable
 parens
 parsable
@@ -562,6 +592,8 @@ qrcode
 quantstamp
 queryable
 quickstart
+Rabby
+radash
 railroad
 rainbowkit
 rapamycin
@@ -577,6 +609,7 @@ REKT
 relayer
 relayers
 remappings
+reown
 repo
 repo's
 repomix
@@ -588,6 +621,7 @@ revm
 Revolut
 rewrap
 rimraf
+rindexer
 rinkeby
 roadmap
 roboto
@@ -608,6 +642,7 @@ sablier
 sablierhq
 Sawinyh
 sberc
+screencapture
 screencast
 screenshot
 screenshots
@@ -630,6 +665,7 @@ sidechains
 sighash
 simvastatin
 skyrockets
+Sleepwatcher
 SLOADs
 smtchecker
 snowtrace
@@ -644,6 +680,7 @@ solmate
 solplate
 solsab
 Solutioning
+Somes
 sophon
 spacetime
 spec
@@ -660,6 +697,7 @@ Starbloom
 starknet
 startup
 startups
+statecharts
 staticcall
 statin
 statins
@@ -717,11 +755,13 @@ timelocks
 timeouts
 timestamptz
 tokenlist
+Toku
 tongkat
 torenberg
 Tradeville
 tranched
 trans
+Transak
 Transilvania
 transpiled
 transpiler
@@ -734,6 +774,7 @@ TRUNC
 trustless
 trustlessness
 tsbuildinfo
+tsgo
 tsla
 tuple
 tuples
@@ -746,6 +787,7 @@ typehash
 typeless
 typy
 uint
+ultracite
 ultrathink
 Uncancelable
 undeployed
@@ -795,6 +837,7 @@ verburgh
 vercel
 versioning
 Viem
+vimrc
 vitalik
 VITE
 vitest
@@ -825,6 +868,7 @@ yarnpkg
 ytoken
 ytokens
 zaleplon
+Zcash
 zenyth
 zkerc
 zksync
