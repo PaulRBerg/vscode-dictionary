@@ -19,6 +19,7 @@ allo
 allopurinol
 allowlist
 allowlisted
+ANAF
 analytics
 anthocyanins
 anthropics
@@ -69,6 +70,7 @@ bioavailable
 biohacking
 bitcoin
 bitfinex
+bitstamp
 bleu
 blockchain
 blockchains
@@ -90,6 +92,7 @@ bundlify
 bunfig
 bunx
 Buterin's
+bybit
 bytecode
 bytecodes
 Bytegaze
@@ -299,6 +302,7 @@ geoblock
 geoblocked
 geoblocking
 gether
+Ghostty
 gitignore
 gitmodules
 Gitter
@@ -336,6 +340,7 @@ hola
 HOLESKY
 homocysteine
 hookable
+hotbit
 hotfixing
 hoverable
 howto
@@ -437,6 +442,7 @@ mathjsbignumber
 maximalism
 mdformat
 megalist
+memeplex
 memoized
 merkle
 metacartel
@@ -668,6 +674,7 @@ skyrockets
 Sleepwatcher
 SLOADs
 smtchecker
+Smth
 snowtrace
 solady
 Solana
@@ -872,4 +879,5 @@ Zcash
 zenyth
 zkerc
 zksync
+Zodl
 Zorilor
