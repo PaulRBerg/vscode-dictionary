@@ -489,6 +489,7 @@ multirelease
 multisig
 multisigs
 multisol
+Multivers
 mundo
 Namecheap
 namehash
@@ -620,6 +621,7 @@ repo
 repo's
 repomix
 resveratrol
+Retrodrops
 Retryable
 returndata_size
 returndatasize
