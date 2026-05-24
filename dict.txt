@@ -205,6 +205,7 @@ denormalizes
 depcheck
 deployer
 deployers
+Deribit
 desaturated
 destructer
 destructure
@@ -615,6 +616,7 @@ refs
 REKT
 relayer
 relayers
+Relogin
 remappings
 reown
 repo
