@@ -71,6 +71,7 @@ biohacking
 bitcoin
 bitfinex
 bitstamp
+Bittylicious
 bleu
 blockchain
 blockchains
@@ -142,6 +143,7 @@ codecov
 codegen
 codeload
 coinbase
+Coinfloor
 collateralised
 collateralization
 collateralized
@@ -171,6 +173,7 @@ cryptoassets
 cryptocurrencies
 cryptoeconomic
 cryptoeconomics
+Cryptopia
 cryptos
 cryptosystem
 cryptosystems
@@ -769,6 +772,7 @@ tokenlist
 Toku
 tongkat
 torenberg
+Tradesilvania
 Tradeville
 tranched
 trans
