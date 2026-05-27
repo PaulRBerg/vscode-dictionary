@@ -340,6 +340,7 @@ hevm
 hifi
 hmrc
 hobson
+Hodler
 hola
 HOLESKY
 homocysteine
