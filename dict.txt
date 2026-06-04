@@ -70,6 +70,7 @@ bioavailable
 biohacking
 bitcoin
 bitfinex
+Bitmex
 bitstamp
 Bittylicious
 bleu
@@ -106,6 +107,7 @@ cancelability
 cancelation
 capitalisation
 cashify
+Catalin
 cbor
 ccbump
 cdps
@@ -449,6 +451,7 @@ mdformat
 megalist
 memeplex
 memoized
+Mercatox
 merkle
 metacartel
 metamask
@@ -520,6 +523,7 @@ norovirus
 norpc
 npm
 numberish
+Nuri
 OFAC
 offchain
 onchain
@@ -563,6 +567,7 @@ pinst
 pipefail
 placeholder
 podcasts
+Poloniex
 polyfilled
 polygonscan
 polyline
