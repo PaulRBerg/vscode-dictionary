@@ -229,6 +229,7 @@ dockerised
 docstrings
 doppelganger
 dotenv
+dotenvx
 dropdown
 duti
 ecdsa
