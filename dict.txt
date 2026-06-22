@@ -429,6 +429,7 @@ linktree
 linspace
 linting
 liquidatable
+Litecoin
 livepeer
 llms
 llmstxt
