@@ -106,6 +106,7 @@ camelcase
 cancelability
 cancelation
 capitalisation
+Cardano
 cashify
 Catalin
 cbor
