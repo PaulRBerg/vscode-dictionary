@@ -386,6 +386,7 @@ initcode
 inmemory
 Instantiator
 intelli
+Interpretability
 ionophore
 iotex
 ipfs
