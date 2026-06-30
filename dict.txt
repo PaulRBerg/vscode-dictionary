@@ -29,6 +29,7 @@ apigenin
 app
 Approvable
 apps
+Aptos
 arange
 arbiscan
 arbitrum
@@ -233,6 +234,7 @@ dotenv
 dotenvx
 dropdown
 duti
+Dymension
 ecdsa
 echanges
 economicus
@@ -503,6 +505,7 @@ multisigs
 multisol
 Multivers
 mundo
+Namada
 Namecheap
 namehash
 nbsp
