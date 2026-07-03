@@ -203,6 +203,7 @@ deconstruct
 deconstructing
 Dedup
 defi
+Degiro
 delegatecall
 DENERGY
 denormalizations
