@@ -684,6 +684,7 @@ shellcheck
 shenzhen
 shfmt
 shiba
+shitcoins
 shortcut
 shoutout
 Shub
