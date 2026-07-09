@@ -507,6 +507,7 @@ multisol
 Multivers
 mundo
 Namada
+Namebase
 Namecheap
 namehash
 nbsp
