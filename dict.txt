@@ -476,6 +476,7 @@ minereum
 minified
 mins
 mintable
+Mintscan
 Mircea
 miterlimit
 mixedcase
