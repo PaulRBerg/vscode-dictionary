@@ -35,6 +35,7 @@ arbiscan
 arbitrum
 arcx
 arcxgame
+Arkham
 artifact
 artifacts
 ashwagandha
@@ -735,6 +736,7 @@ statins
 Stax
 stdstore
 steelmaking
+Steemit
 streamable
 struct
 structopt
