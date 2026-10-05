@@ -555,6 +555,7 @@ oxfmt
 OXGRAPH
 oxlint
 pageview
+Palas
 Pandoc
 papaparse
 parallelizable
@@ -883,6 +884,8 @@ vivomixx
 Wagmi
 walletconnect
 walletlink
+Washlet
+Washlets
 wasm
 watchlist
 wbtc
